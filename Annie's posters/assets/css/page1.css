@@ -1,0 +1,129 @@
+body {
+	font-family: Helvetica,Arial,sans-serif;
+	font-size: 50px;
+	text-align: left;
+	color:black;
+	background: linear-gradient(270deg, #5e5eff, #cbb000, #4bff00, #ffacac);
+    background-size: 800% 800%;
+
+    -webkit-animation: AnimationName 9s ease infinite;
+    -moz-animation: AnimationName 9s ease infinite;
+    animation: AnimationName 9s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+
+}
+
+.date{
+background:white;
+}
+
+.info{
+position: absolute;
+width: 1115px;
+height: 396px;
+left: 58px;
+top: 28px;
+
+font-family: Arial;
+font-style: italic;
+font-weight: normal;
+font-size: 140px;
+line-height: 130px;
+}
+
+
+
+.text{
+font-family: sporting grotesque;
+font-style: normal;
+font-size: 75px;
+overflow:scroll;
+line-height: 75px;
+text-align: left;
+padding:10px;
+position: absolute;
+width: 750px;
+height: 300px;
+left: 850px;
+top: 590px;
+color:white;
+background: black;
+}
+
+a {
+    color:#00FF44;
+
+}
+    
+
+span {
+  color: #00FF44;
+ }
+
+
+.circle1{
+position: absolute;
+width: 800px;
+height: 345px;
+left: 30px;
+top: 570px;
+border-radius: 100%;
+background: black;
+}
+
+.box1{
+position: absolute;
+width: 920px;
+height: 230px;
+left: 680px;
+top: 300px;
+background:black;
+
+}
+
+.minicircle1{
+position: absolute;
+width: 200px;
+height: 200px;
+left: 1350px;
+top: 70px;
+border-radius: 100%;
+background: black;
+}
+
+.minicircle2{
+position: absolute;
+width: 200px;
+height: 200px;
+left: 1150px;
+top: 70px;
+border-radius: 100%;
+background: black;
+}
+
+.minicircle3{
+position: absolute;
+width: 200px;
+height: 200px;
+left: 950px;
+top: 70px;
+border-radius: 100%;
+background: black;
+
+}

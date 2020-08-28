@@ -1,0 +1,246 @@
+body {
+  background-color: black;
+}
+.message1{
+	position:absolute;
+	font-family:Arial;
+    font-style: normal;
+    font-weight: normal;
+    left:694px;
+    height:90px;
+    right:630px;
+    top:32px;
+	font-size:30px;
+	color: #FFFFFF
+}
+
+
+.message2 {
+position: absolute;
+width: 909px;
+height: 735px;
+left: 684px;
+top: 250px;
+
+font-family: Sporting Grotesque;
+font-style: normal;
+font-weight: normal;
+font-size: 75px;
+line-height: 75px;
+color: #FFFFFF;
+}
+
+a {
+	animation: colorchange 5s infinite;
+ }
+
+ @keyframes colorchange{
+ 	0% {
+ 		color:black;
+ 	}
+
+ 	50% {
+ 		color: grey;
+ 	}
+
+ 	100% {
+ 		color:#FFFFFF;
+ 	}
+ }
+	
+
+
+span {
+	animation: colorchange 5s infinite;
+ }
+
+ @keyframes colorchange{
+ 	0% {
+ 		color:black;
+ 	}
+
+ 	50% {
+ 		color: grey;
+ 	}
+
+ 	100% {
+ 		color:#FFFFFF;
+ 	}
+ }
+
+
+
+.circle {
+	position: absolute;
+	width:339px;
+	height:339px;
+	left: 75px;
+    top: 301px;
+	background: radial-gradient(#FF00B8, #FFB287 , #82FF43, #00FF11);
+	border-radius: 100%
+}
+
+.circle2 {
+	position: absolute;
+    width: 191px;
+    height: 191px;
+    left: 415px;
+    top: 350px;
+    background: radial-gradient(#0029FF,#E1D3FF,#82FFE8);
+    border-radius: 100%
+
+}
+
+.circle3 {
+	position: absolute;
+    width: 140px;
+    height: 140px;
+    left: 380px;
+    top: 533px;
+    background:  #FFFFFF;
+    border-radius: 100%
+}
+
+.circle4 {
+	position: absolute;
+    width: 373px;
+    height: 373px;
+    left: 130px; 
+    top: -65px;
+    background: radial-gradient(#F5FF88,#00FFCD,#CAF7FF,#FF0000,#FF0000);
+    border-radius:100%;
+}
+
+.circle5{
+	position: absolute;
+   width: 90px;
+   height: 90px;
+   left: 376px;
+   top: 289px;
+   background:#FFFFFF;
+   border-radius: 100%
+}
+
+.circle6{
+	position: absolute;
+width: 65px;
+height: 65px;
+left: 130px;
+top: 249px;
+border-radius:100%;
+background:#FFFFFF;
+
+
+}
+
+.circle7{
+position: absolute;
+width: 45px;
+height: 45px;
+left: 445px;
+top: 260px;
+border-radius:100%;
+background:#FFFFFF;
+
+}
+
+.circle8{
+position: absolute;
+width: 80px;
+height: 80px;
+left: 320px;
+top: 620px;
+border-radius:100%;
+background:#FFFFFF;
+}
+
+.circle9{
+position: absolute;
+width: 40px;
+height: 40px;
+left: 335px;
+top: 686px;
+border-radius:100%;
+background:#FFFFFF;
+}
+
+.circle10 {
+position: absolute;
+width: 200px;
+height: 200px;
+left: 138px;
+top: 640px;
+border-radius:100%;
+background:radial-gradient(#FF0000,#FF00EF)
+}
+
+.circle11{
+position: absolute;
+width: 50px;
+height: 50px;
+left: 130px;
+top: 620px;
+border-radius:100%;
+background: #FFFFFF
+}
+
+.circle12{
+position: absolute;
+width: 100px;
+height: 100px;
+left: 290px;
+top: 800px;
+border-radius:100%;
+background: #FFFFFF	
+}
+
+.circle13{
+position: absolute;
+width: 120px;
+height: 120px;
+left: 370px;
+top: 675px;
+border-radius:100%;
+background:radial-gradient(#A200FF,#36F9FF);
+}
+
+.circle14{
+position: absolute;
+width: 50px;
+height: 50px;
+left: 370px;
+top: 875px;
+border-radius:100%;
+background: #FFFFFF
+}
+
+.circle15{
+position: absolute;
+width: 55px;
+height: 55px;
+left: 340px;
+top: 770px;
+border-radius:100%;
+background: #FFFFFF	
+}
+
+.circle16{
+position: absolute;
+width: 80px;
+height: 80px;
+left: 440px;
+top: 800px;
+border-radius:100%;
+background:radial-gradient(#FFD500,#FFFECB);
+}
+
+.circle17{
+	position: absolute;
+width: 80px;
+height: 80px;
+left: 490px;
+top: 600px;
+border-radius:100%;
+background:#FFFFFF;
+
+}
